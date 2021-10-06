@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - ## My Working Profile
-- ![]()
+-<img src="https://github.com/Mayukh-Ganguly01/Mayukh-Ganguly01/blob/main/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" width="200" height="200"/>
+

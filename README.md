@@ -1,5 +1,16 @@
-# Hi there 
+## Hi there  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
 
+# My name is **Mayukh Ganguly**
+| My interests | 
+|---| 
+|1. C |
+|2.C++|
+|3.C sharp|
+|4.Java|
+|5.Python|
+|6.HTML|
+<p align="right">
+  <img src="
 <body background="https://github.com/Mayukh-Ganguly01/Mayukh-Ganguly01/blob/main/photo-1504639725590-34d0984388bd.jpeg">
   
   

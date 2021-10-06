@@ -21,6 +21,8 @@
  ## Here is my working profile--> [<img src="https://github.com/Mayukh-Ganguly01/Mayukh-Ganguly01/blob/main/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" width="100" height="100"/>](https://www.linkedin.com/in/mayukh-ganguly-5a9a01222/)
 ## Here is my Statestics-->|[![](https://github-readme-stats.vercel.app/api?username=Mayukh-Ganguly01)](https://github.com/anuraghazra/github-readme-stats)|
  
-# piliz didi dadagon amake certificate diyo 
- 
+# Thank you for visiting my profile 
+  <p align="center">
+     <img src="https://github.com/Mayukh-Ganguly01/Mayukh-Ganguly01/blob/main/thank-you.gif"/>
+  </p>
   

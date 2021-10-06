@@ -1,18 +1,5 @@
-# Hi there 👋
+# Hi there 
 
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently studying at Netaji Subhash Engineering College
-- 🌱 I’m currently learning NOTHING
-- 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- ## My Working Profile
 
 
 

@@ -4,12 +4,14 @@
 
 | My interests | 
 |---|
-|1. C |
-|2.C++|
-|3.C sharp|
-|4.Java|
-|5.Python|
-|6.HTML|
+|1.C++|
+|2.HTML|
+|3.CSS|
+|4.JavaScript|
+|5.ReactJS|
+|6.NojeJS|
+|7.Express.js|
+|8.MongoDB|
 
 <p align="center">
 <img src="https://github.com/Mayukh-Ganguly01/Mayukh-Ganguly01/blob/main/photo-1504639725590-34d0984388bd.jpeg" width="400" height="300"/>

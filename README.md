@@ -9,7 +9,7 @@
 |3.CSS|
 |4.JavaScript|
 |5.ReactJS|
-|6.NojeJS|
+|6.NodeJS|
 |7.Express.js|
 |8.MongoDB|
 
